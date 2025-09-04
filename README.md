@@ -1,17 +1,17 @@
 
 
-```
+
 # Ex-4: Scenario-Based Report Development Utilizing Diverse Prompting Techniques  
 
 **Objective:**  
 The goal of this experiment is to design and develop an AI-powered chatbot that can handle customer inquiries, provide support, and improve customer experience in a retail environment. Prompts using various AI prompting techniques guide the experiment, data collection, analysis, and report creation.  
 
----
+
 
 ## Aim  
 To evaluate how diverse prompting techniques (zero-shot, few-shot, chain-of-thought, role-based, and instruction-guided) enhance the effectiveness of AI-powered chatbots in handling retail customer queries such as order tracking, product recommendations, complaint resolution, and FAQs.  
 
----
+
 
 ## Algorithm  
 1. Customer submits a query.  
@@ -22,7 +22,7 @@ To evaluate how diverse prompting techniques (zero-shot, few-shot, chain-of-thou
 6. Deliver response to the customer.  
 7. Log feedback for continuous improvement.  
 
----
+
 
 ## Scenario 1: Order Tracking  
 
@@ -113,7 +113,5 @@ A hybrid prompting strategy works best for retail chatbots.
 - Instruction-guided ensures concise FAQs.  
 
 Together, they make responses both accurate and customer-friendly, enhancing overall customer satisfaction.  
-```
 
----
 
